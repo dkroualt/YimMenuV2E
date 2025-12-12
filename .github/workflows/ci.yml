@@ -78,3 +78,4 @@ jobs:
           path: |
             build/libYimMenuV2-dev-*.dll
             build/libYimMenuV2-dev-*.pdb
+
